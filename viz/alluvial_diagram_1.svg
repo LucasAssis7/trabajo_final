@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1050 600">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible');
+      .st0 {
+        stroke-width: 8.1px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st2, .st4, .st5, .st6, .st26, .st8, .st9, .st10, .st11, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25 {
+        fill: none;
+      }
+
+      .st0, .st1, .st2, .st4, .st5, .st6, .st8, .st9, .st10, .st11, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25 {
+        mix-blend-mode: multiply;
+      }
+
+      .st0, .st2, .st5, .st6, .st10, .st11, .st16, .st18, .st19, .st23 {
+        stroke: #007957;
+      }
+
+      .st1, .st4, .st8, .st9, .st13, .st15, .st20, .st21, .st24 {
+        stroke: #125389;
+      }
+
+      .st1, .st11, .st17 {
+        stroke-width: 2px;
+      }
+
+      .st2, .st13 {
+        stroke-width: 6.1px;
+      }
+
+      .st3, .st7, .st27 {
+        font-family:Atkinson Hyperlegible, sans-serif;
+        font-size: 11px;
+      }
+
+      .st5 {
+        stroke-width: 9.1px;
+      }
+
+      .st28 {
+        fill: #fff;
+      }
+
+      .st6, .st8 {
+        stroke-width: 10.1px;
+      }
+
+      .st7 {
+        fill: #666;
+      }
+
+      .st9, .st23, .st25 {
+        stroke-width: 3px;
+      }
+
+      .st14, .st17, .st22, .st25 {
+        stroke: #f2d454;
+      }
+
+      .st15, .st22 {
+        stroke-width: 4.1px;
+      }
+
+      .st16 {
+        stroke-width: 5.1px;
+      }
+
+      .st18 {
+        stroke-width: 12.2px;
+      }
+
+      .st19, .st20 {
+        stroke-width: 7.1px;
+      }
+
+      .st21 {
+        stroke-width: 22.3px;
+      }
+
+      .st24 {
+        stroke-width: 13.2px;
+      }
+    </style>
+  </defs>
+  <g class="st12">
+    <g id="Camada_2">
+      <rect class="st28" x="1157.8" y="-19" width="143" height="630.6"/>
+    </g>
+    <g id="Camada_1">
+      <g id="visualization">
+        <g>
+          <path d="M926,10h3v1h-3v-1Z"/>
+          <path d="M926,21h3v1h-3v-1Z"/>
+          <path d="M926,32h3v1h-3v-1Z"/>
+          <path d="M926,43h3v1.1h-3v-1.1Z"/>
+          <path d="M926,54.1h3v1h-3v-1Z"/>
+          <path d="M926,65.1h3v1h-3v-1Z"/>
+          <path d="M926,76.1h3v2h-3v-2Z"/>
+          <path d="M926,88.1h3v2h-3v-2Z"/>
+          <path d="M926,100.1h3v2.1h-3v-2.1Z"/>
+          <path d="M926,112.2h3v2h-3v-2Z"/>
+          <path d="M926,124.2h3v2h-3v-2Z"/>
+          <path d="M926,136.2h3v2.1h-3v-2.1Z"/>
+          <path d="M926,148.3h3v2h-3v-2Z"/>
+          <path d="M926,160.3h3v3h-3v-3Z"/>
+          <path d="M926,173.3h3v3.1h-3v-3.1Z"/>
+          <path d="M926,186.4h3v3h-3v-3Z"/>
+          <path d="M926,199.4h3v3.1h-3v-3.1Z"/>
+          <path d="M926,212.5h3v3h-3v-3Z"/>
+          <path d="M926,225.5h3v4.1h-3v-4.1Z"/>
+          <path d="M926,239.6h3v4h-3v-4Z"/>
+          <path d="M926,253.6h3v4.1h-3v-4.1Z"/>
+          <path d="M926,267.7h3v4h-3v-4Z"/>
+          <path d="M926,281.7h3v5.1h-3v-5.1Z"/>
+          <path d="M926,296.8h3v6.1h-3v-6.1Z"/>
+          <path d="M926,312.9h3v6.1h-3v-6.1Z"/>
+          <path d="M926,329h3v6.1h-3v-6.1Z"/>
+          <path d="M926,345.1h3v7.1h-3v-7.1Z"/>
+          <path d="M926,362.2h3v7.1h-3v-7.1Z"/>
+          <path d="M926,379.3h3v7.1h-3v-7.1Z"/>
+          <path d="M926,396.4h3v8.1h-3v-8.1Z"/>
+          <path d="M926,414.5h3v9.1h-3v-9.1Z"/>
+          <path d="M926,433.6h3v9.2h-3v-9.2Z"/>
+          <path d="M926,452.8h3v10.1h-3v-10.1Z"/>
+          <path d="M926,472.9h3v11.2h-3v-11.2Z"/>
+          <path d="M926,494.1h3v12.1h-3v-12.1Z"/>
+          <path d="M926,516.2h3v13.2h-3v-13.2Z"/>
+          <path d="M926,539.4h3v15.2h-3v-15.2Z"/>
+          <path d="M149,185h3v24.3h-3v-24.3Z"/>
+          <path d="M926,564.6h3v25.4h-3v-25.4Z"/>
+          <path d="M149,219.3h3v82.2h-3v-82.2Z"/>
+          <path d="M149,311.5h3v103.5h-3v-103.5Z"/>
+        </g>
+        <g>
+          <path class="st5" d="M152,372.9c387,0,387,46.2,774,46.2"/>
+          <path class="st11" d="M152,314.6c387,0,387-237.5,774-237.5"/>
+          <path class="st25" d="M152,205.8c387,0,387,335.1,774,335.1"/>
+          <path class="st15" d="M152,230.5c387,0,387-3,774-3"/>
+          <path class="st15" d="M152,234.6c387,0,387,7,774,7"/>
+          <path class="st23" d="M152,324.2c387,0,387-162.4,774-162.4"/>
+          <path class="st10" d="M152,414.5c387,0,387,175,774,175"/>
+          <path class="st19" d="M152,356.7c387,0,387-8.1,774-8.1"/>
+          <path class="st21" d="M152,290.4c387,0,387,287.4,774,287.4"/>
+          <path class="st24" d="M152,272.6c387,0,387,250.2,774,250.2"/>
+          <path class="st8" d="M152,260.9c387,0,387,217.1,774,217.1"/>
+          <path class="st13" d="M152,245.7c387,0,387,120.5,774,120.5"/>
+          <path class="st18" d="M152,407.9c387,0,387,140.7,774,140.7"/>
+          <path class="st16" d="M152,380c387,0,387,60.2,774,60.2"/>
+          <path class="st6" d="M152,396.7c387,0,387,104.5,774,104.5"/>
+          <path class="st22" d="M152,198.2c387,0,387,237.5,774,237.5"/>
+          <path class="st0" d="M152,386.6c387,0,387,72.2,774,72.2"/>
+          <path class="st11" d="M152,316.6c387,0,387-227.5,774-227.5"/>
+          <path class="st17" d="M152,201.2c387,0,387,252.6,774,252.6"/>
+          <path class="st14" d="M152,187.5c387,0,387-13.7,774-13.7"/>
+          <path class="st17" d="M152,208.3c387,0,387,357.4,774,357.4"/>
+          <path class="st10" d="M152,318.1c387,0,387-216.4,774-216.4"/>
+          <path class="st9" d="M152,238.1c387,0,387,18.1,774,18.1"/>
+          <path class="st14" d="M152,191.6c387,0,387,62.5,774,62.5"/>
+          <path class="st20" d="M152,252.3c387,0,387,130.5,774,130.5"/>
+          <path class="st11" d="M152,328.8c387,0,387-140.4,774-140.4"/>
+          <path class="st16" d="M152,339.4c387,0,387-39,774-39"/>
+          <path class="st0" d="M152,364.3c387,0,387,36.1,774,36.1"/>
+          <path class="st14" d="M152,193.6c387,0,387,103.7,774,103.7"/>
+          <path class="st2" d="M152,345c387,0,387-29.1,774-29.1"/>
+          <path class="st11" d="M152,326.7c387,0,387-151.3,774-151.3"/>
+          <path class="st4" d="M152,221.9c387,0,387-121.2,774-121.2"/>
+          <path class="st17" d="M152,203.3c387,0,387,291.8,774,291.8"/>
+          <path class="st4" d="M152,219.9c387,0,387-209.4,774-209.4"/>
+          <path class="st16" d="M152,350.6c387,0,387-18.1,774-18.1"/>
+          <path class="st14" d="M152,185.5c387,0,387-164,774-164"/>
+          <path class="st10" d="M152,312c387,0,387-279.5,774-279.5"/>
+          <path class="st1" d="M152,227.5c387,0,387-26.1,774-26.1"/>
+          <path class="st16" d="M152,334.3c387,0,387-50,774-50"/>
+          <path class="st14" d="M152,188.6c387,0,387-1.7,774-1.7"/>
+          <path class="st14" d="M152,190.6c387,0,387,22.4,774,22.4"/>
+          <path class="st4" d="M152,220.9c387,0,387-177.3,774-177.3"/>
+          <path class="st11" d="M152,330.8c387,0,387-116.3,774-116.3"/>
+          <path class="st14" d="M152,194.6c387,0,387,134.9,774,134.9"/>
+          <path class="st1" d="M152,223.4c387,0,387-110.2,774-110.2"/>
+          <path class="st14" d="M152,189.6c387,0,387,10.3,774,10.3"/>
+          <path class="st10" d="M152,391.2c387,0,387,92.4,774,92.4"/>
+          <path class="st11" d="M152,319.6c387,0,387-194.4,774-194.4"/>
+          <path class="st9" d="M152,241.2c387,0,387,29,774,29"/>
+          <path class="st14" d="M152,192.6c387,0,387,75.6,774,75.6"/>
+          <path class="st1" d="M152,225.4c387,0,387-88.2,774-88.2"/>
+          <path class="st11" d="M152,321.7c387,0,387-172.4,774-172.4"/>
+          <path class="st14" d="M152,195.7c387,0,387,167,774,167"/>
+          <path class="st14" d="M152,186.5c387,0,387-131.9,774-131.9"/>
+          <path class="st10" d="M152,313c387,0,387-247.4,774-247.4"/>
+        </g>
+      </g>
+      <line class="st26" y1="619.9" y2="19.9"/>
+      <text class="st3" transform="translate(72.6 201.2)"><tspan x="0" y="0">Diseñador(a)</tspan></text>
+      <text class="st3" transform="translate(14.6 357)"><tspan x="0" y="0">Diseñador(a) con mención</tspan></text>
+      <text class="st27" transform="translate(-202.1 69.6)"><tspan x="0" y="0"> </tspan></text>
+      <text class="st3" transform="translate(44.9 267.4)"><tspan x="0" y="0">Industrial y Servicios</tspan></text>
+      <text class="st3" transform="translate(15.8 252.7)"><tspan x="0" y="0">Diseñador(a) con mención</tspan></text>
+      <text class="st27" transform="translate(-202.1 69.6)"><tspan x="0" y="0"> </tspan></text>
+      <text class="st3" transform="translate(30.7 371.7)"><tspan x="0" y="0">en Visualidad y Medios</tspan></text>
+      <line class="st26" x1="1177.2" y1="191.2" x2="2349.8" y2="334.6"/>
+      <line class="st26" x1="1177.2" y1="215.3" x2="2349.8" y2="402.7"/>
+      <text id="Mónica_Santibañez_x2A_" class="st7" transform="translate(933.6 13.8)"><tspan x="0" y="0">Mónica Santibañez*</tspan></text>
+      <text id="Macarena_Ruiz_x2A_" class="st7" transform="translate(933.6 26.7)"><tspan x="0" y="0">Macarena Ruiz*</tspan></text>
+      <text id="Hans_Stange" class="st3" transform="translate(933.6 37.9)"><tspan x="0" y="0">Hans Stange</tspan></text>
+      <text id="Raúl_Molina_x2A_" class="st7" transform="translate(933.6 48.2)"><tspan x="0" y="0">Raúl Molina*</tspan></text>
+      <text id="Rebeca_Silva" class="st3" transform="translate(933.6 58.7)"><tspan x="0" y="0">Rebeca Silva</tspan></text>
+      <text id="Alfredo_Mora" class="st3" transform="translate(933.6 68.7)"><tspan x="0" y="0">Alfredo Mora</tspan></text>
+      <text id="Mauricio_Vico" class="st3" transform="translate(933.6 80.9)"><tspan x="0" y="0">Mauricio Vico</tspan></text>
+      <text id="Bruno_Perelli" class="st3" transform="translate(933.6 94.1)"><tspan x="0" y="0">Bruno Perelli</tspan></text>
+      <text id="Juan_Carlos_Lepe_x2A_" class="st7" transform="translate(933.6 105.9)"><tspan x="0" y="0">Juan Carlos Lepe*</tspan></text>
+      <text id="René_Perea" class="st3" transform="translate(933.6 118.5)"><tspan x="0" y="0">René Perea</tspan></text>
+      <text id="Iván_Méndez" class="st3" transform="translate(933.6 130)"><tspan x="0" y="0">Iván Méndez</tspan></text>
+      <text id="Paola_Benavides_x2A_" class="st7" transform="translate(933.6 142.7)"><tspan x="0" y="0">Paola Benavides*</tspan></text>
+      <text id="Trinidad_Jove_x2A_" class="st7" transform="translate(933.6 155.1)"><tspan x="0" y="0">Trinidad Jove*</tspan></text>
+      <text id="Cristián_Gómez" class="st3" transform="translate(933.6 167)"><tspan x="0" y="0">Cristián Gómez</tspan></text>
+      <text id="Daniel_Reyes" class="st3" transform="translate(933.6 180)"><tspan x="0" y="0">Daniel Reyes</tspan></text>
+      <text id="Osvaldo_Zorzano" class="st3" transform="translate(933.6 193.5)"><tspan x="0" y="0">Osvaldo Zorzano</tspan></text>
+      <text id="Felix_Maldonado" class="st3" transform="translate(933.6 205.5)"><tspan x="0" y="0">Felix Maldonado</tspan></text>
+      <text id="Gabriela_Pradenas" class="st3" transform="translate(933.6 219.9)"><tspan x="0" y="0">Gabriela Pradenas</tspan></text>
+      <text id="Mauricio_Tapia" class="st3" transform="translate(933.6 233.5)"><tspan x="0" y="0">Mauricio Tapia</tspan></text>
+      <text id="Lorna_Lares" class="st3" transform="translate(933.6 245.5)"><tspan x="0" y="0">Lorna Lares</tspan></text>
+      <text id="Pablo_Nuñez" class="st3" transform="translate(933.6 262.1)"><tspan x="0" y="0">Pablo Nuñez</tspan></text>
+      <text id="Antonio_Marín" class="st3" transform="translate(933.6 273.5)"><tspan x="0" y="0">Antonio Marín</tspan></text>
+      <text id="Sebastián_Pagueguy" class="st3" transform="translate(933.6 286.8)"><tspan x="0" y="0">Sebastián Pagueguy</tspan></text>
+      <text id="Pamela_Gatica" class="st3" transform="translate(933.6 302.9)"><tspan x="0" y="0">Pamela Gatica</tspan></text>
+      <text id="María_Paz_Morales_x2A_" class="st7" transform="translate(933.6 319.9)"><tspan x="0" y="0">María Paz Morales*</tspan></text>
+      <text id="Mariana_Young_x2A_" class="st7" transform="translate(933.6 335.1)"><tspan x="0" y="0">Mariana Young*</tspan></text>
+      <text id="Roberto_Osses" class="st3" transform="translate(933.6 356.7)"><tspan x="0" y="0">Roberto Osses</tspan></text>
+      <text id="Sergio_Donoso" class="st3" transform="translate(933.6 373.3)"><tspan x="0" y="0">Sergio Donoso</tspan></text>
+      <text id="Paola_De_la_Sotta" class="st3" transform="translate(933.6 386.4)"><tspan x="0" y="0">Paola De la Sotta</tspan></text>
+      <text id="Leonardo_Soto" class="st3" transform="translate(933.6 404.5)"><tspan x="0" y="0">Leonardo Soto</tspan></text>
+      <text id="Felipe_Cortez" class="st3" transform="translate(933.6 422.7)"><tspan x="0" y="0">Felipe Cortez</tspan></text>
+      <text id="Eduardo_Castillo" class="st3" transform="translate(933.6 442.8)"><tspan x="0" y="0">Eduardo Castillo</tspan></text>
+      <text id="Jenny_Abud" class="st3" transform="translate(933.6 458.8)"><tspan x="0" y="0">Jenny Abud</tspan></text>
+      <text id="Andrea_Wechsler_x2A_" class="st7" transform="translate(933.6 484.1)"><tspan x="0" y="0">Andrea Wechsler*</tspan></text>
+      <text id="Rodrigo_Dueñas" class="st3" transform="translate(933.6 506.2)"><tspan x="0" y="0">Rodrigo Dueñas</tspan></text>
+      <text id="Rubén_Jacob" class="st3" transform="translate(933.6 529.4)"><tspan x="0" y="0">Rubén Jacob</tspan></text>
+      <text id="Verónica_Ode" class="st3" transform="translate(933.6 554.6)"><tspan x="0" y="0">Verónica Ode</tspan></text>
+      <text id="Pablo_Domínguez" class="st3" transform="translate(933.6 577.8)"><tspan x="0" y="0">Pablo Domínguez</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 410">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible');
+      .st0 {
+        stroke: #000;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        font-family: Atkinson Hyperlegible, sans-serif;
+        font-size: 11px;
+      }
+
+      .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st4, .st5, .st6 {
+        stroke-dasharray: 4;
+      }
+
+      .st4, .st7 {
+        stroke: #f2d454;
+      }
+
+      .st8, .st5, .st9 {
+        stroke: #004e93;
+      }
+
+      .st9, .st10 {
+        stroke-width: 2px;
+      }
+
+      .st11, .st6, .st10 {
+        stroke: #007958;
+      }
+
+      .st12 {
+        fill: #007958;
+      }
+
+      .st13 {
+        fill: #f2d454;
+      }
+
+      .st14 {
+        fill: #004e93;
+      }
+
+      .st15 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="viz">
+    <g id="ejes">
+      <g id="y">
+        <path class="st0" d="M25.3,375.8h6V10.8h-6"/>
+        <path class="st0" d="M791.3,375.8H25.3"/>
+        <path class="st0" d="M31.3,351.5h-6"/>
+        <path class="st0" d="M31.3,327.1h-6"/>
+        <path class="st0" d="M31.3,302.8h-6"/>
+        <path class="st0" d="M31.3,278.5h-6"/>
+        <path class="st0" d="M31.3,254.1h-6"/>
+        <path class="st0" d="M31.3,229.8h-6"/>
+        <path class="st0" d="M31.3,205.5h-6"/>
+        <path class="st0" d="M31.3,181.1h-6"/>
+        <path class="st0" d="M31.3,156.8h-6"/>
+        <path class="st0" d="M31.3,132.5h-6"/>
+        <path class="st0" d="M31.3,108.1h-6"/>
+        <path class="st0" d="M31.3,83.8h-6"/>
+        <path class="st0" d="M31.3,59.5h-6"/>
+        <path class="st0" d="M31.3,35.1h-6"/>
+        <path class="st0" d="M31.3,10.8h-6"/>
+      </g>
+      <g id="x">
+        <path class="st0" d="M158.3,375.8v6"/>
+        <path class="st0" d="M411.3,375.8v6"/>
+        <path class="st0" d="M664.3,374.8v6"/>
+      </g>
+    </g>
+    <g id="boxplot_I_y_S">
+      <path class="st6" d="M664.3,10.8v365"/>
+      <path class="st11" d="M641.8,10.8h45"/>
+      <path class="st12" d="M641.8,71.6h45v121.7h-45v-121.7Z"/>
+      <path class="st15" d="M641.8,132.5h45"/>
+      <path id="abajo" class="st10" d="M641.8,375.8h45"/>
+    </g>
+    <g id="boxplot_V_y_M">
+      <path id="Layer_copy" class="st5" d="M411.3,10.8v365"/>
+      <path id="Layer_copy_2" class="st8" d="M388.8,10.8h45"/>
+      <path id="Layer_copy_3" class="st15" d="M388.8,132.5h45"/>
+      <path id="Layer_copy_6" class="st14" d="M388.8,71.6h45v121.7h-45v-121.7Z"/>
+      <path id="Layer_copy_7" class="st15" d="M388.8,132.5h45"/>
+      <path id="abajo1" data-name="abajo" class="st9" d="M387.8,375.8h45"/>
+    </g>
+    <g id="boxplot_sin_mención">
+      <path class="st4" d="M158.3,10.8v304.2"/>
+      <path class="st7" d="M135.8,10.8h45"/>
+      <path class="st7" d="M134.8,315h45"/>
+      <path class="st13" d="M135.8,71.6h45v121.7h-45v-121.7Z"/>
+      <path class="st15" d="M135.8,132.5h45"/>
+    </g>
+  </g>
+  <rect class="st1" x="5.8" width="794.2" height="410"/>
+  <g id="_x34_.0" class="st3">
+    <text class="st2" transform="translate(5.8 377.8)"><tspan x="0" y="0">4,0</tspan></text>
+  </g>
+  <g id="_x34_.2" class="st3">
+    <text class="st2" transform="translate(5.8 354.5)"><tspan x="0" y="0">4,2</tspan></text>
+  </g>
+  <g id="_x34_.4" class="st3">
+    <text class="st2" transform="translate(5.8 330.1)"><tspan x="0" y="0">4,4</tspan></text>
+  </g>
+  <g id="_x34_.6" class="st3">
+    <text class="st2" transform="translate(5.8 305.8)"><tspan x="0" y="0">4,6</tspan></text>
+  </g>
+  <g id="_x34_.8" class="st3">
+    <text class="st2" transform="translate(5.8 281.3)"><tspan x="0" y="0">4,8</tspan></text>
+  </g>
+  <g id="_x35_.0" class="st3">
+    <text class="st2" transform="translate(5.8 257.1)"><tspan x="0" y="0">5,0</tspan></text>
+  </g>
+  <g id="_x35_.2" class="st3">
+    <text class="st2" transform="translate(5.8 232.8)"><tspan x="0" y="0">5,2</tspan></text>
+  </g>
+  <g id="_x35_.4" class="st3">
+    <text class="st2" transform="translate(5.8 208.5)"><tspan x="0" y="0">5,4</tspan></text>
+  </g>
+  <g id="_x35_.6" class="st3">
+    <text class="st2" transform="translate(5.8 184.6)"><tspan x="0" y="0">5,6</tspan></text>
+  </g>
+  <g id="_x35_.8" class="st3">
+    <text class="st2" transform="translate(5.8 159.9)"><tspan x="0" y="0">5,8</tspan></text>
+  </g>
+  <g id="_x36_.0" class="st3">
+    <text class="st2" transform="translate(446.6 134)"><tspan x="0" y="0">6,0</tspan></text>
+  </g>
+  <g id="_x36_.2" class="st3">
+    <text class="st2" transform="translate(5.8 111.1)"><tspan x="0" y="0">6,2</tspan></text>
+  </g>
+  <g id="_x36_.4" class="st3">
+    <text class="st2" transform="translate(5.8 86.8)"><tspan x="0" y="0">6,4</tspan></text>
+  </g>
+  <g id="_x36_.6" class="st3">
+    <text class="st2" transform="translate(5.8 63)"><tspan x="0" y="0">6,6</tspan></text>
+  </g>
+  <g id="_x36_.8" class="st3">
+    <text class="st2" transform="translate(5.8 38.6)"><tspan x="0" y="0">6,8</tspan></text>
+  </g>
+  <g id="_x37_.0" class="st3">
+    <text class="st2" transform="translate(446.1 14.2)"><tspan x="0" y="0">7,0</tspan></text>
+  </g>
+  <g id="Diseñador_x2F_a" class="st3">
+    <text class="st2" transform="translate(125.9 397)"><tspan x="0" y="0">Diseñador(a)</tspan></text>
+  </g>
+  <g id="Diseñador_x2F_a_V_y_M" class="st3">
+    <text class="st2" transform="translate(361.6 399.3)"><tspan x="0" y="0">Diseñador(a) V y M</tspan></text>
+  </g>
+  <g id="Diseñador_x2F_a_I_y_S" class="st3">
+    <text class="st2" transform="translate(619.8 399.3)"><tspan x="0" y="0">Diseñador(a) I y S</tspan></text>
+  </g>
+  <g id="_x37__x2C_0" class="st3">
+    <text class="st2" transform="translate(5.8 14.2)"><tspan x="0" y="0">7,0</tspan></text>
+  </g>
+  <g id="_x34__x2C_0" class="st3">
+    <text class="st2" transform="translate(701.2 377.8)"><tspan x="0" y="0">4,0</tspan></text>
+  </g>
+  <g id="_x36__x2C_0" class="st3">
+    <text class="st2" transform="translate(5.8 135.9)"><tspan x="0" y="0">6,0</tspan></text>
+  </g>
+  <g id="_x35__x2C_5" class="st3">
+    <text class="st2" transform="translate(362.8 194.8)"><tspan x="0" y="0">5,5</tspan></text>
+  </g>
+  <g id="_x36__x2C_5" class="st3">
+    <text class="st2" transform="translate(106.9 78.9)"><tspan x="0" y="0">6,5</tspan></text>
+  </g>
+  <g id="_x37__x2C_01" data-name="_x37__x2C_0" class="st3">
+    <text class="st2" transform="translate(700.2 14.2)"><tspan x="0" y="0">7,0</tspan></text>
+  </g>
+  <g id="_x34__x2C_01" data-name="_x34__x2C_0" class="st3">
+    <text class="st2" transform="translate(446.6 378.8)"><tspan x="0" y="0">4,0</tspan></text>
+  </g>
+  <g id="_x36__x2C_01" data-name="_x36__x2C_0" class="st3">
+    <text class="st2" transform="translate(194.4 132.5)"><tspan x="0" y="0">6,0</tspan></text>
+  </g>
+  <g id="_x35__x2C_51" data-name="_x35__x2C_5" class="st3">
+    <text class="st2" transform="translate(107.4 193.3)"><tspan x="0" y="0">5,5</tspan></text>
+  </g>
+  <g id="_x36__x2C_51" data-name="_x36__x2C_5" class="st3">
+    <text class="st2" transform="translate(362.4 78.9)"><tspan x="0" y="0">6,5</tspan></text>
+  </g>
+  <g id="_x37__x2C_02" data-name="_x37__x2C_0" class="st3">
+    <text class="st2" transform="translate(193.8 14.2)"><tspan x="0" y="0">7,0</tspan></text>
+  </g>
+  <g id="_x34__x2C_5" class="st3">
+    <text class="st2" transform="translate(194.8 318.7)"><tspan x="0" y="0">4,5</tspan></text>
+  </g>
+  <g id="_x36__x2C_02" data-name="_x36__x2C_0" class="st3">
+    <text class="st2" transform="translate(700.7 135.6)"><tspan x="0" y="0">6,0</tspan></text>
+  </g>
+  <g id="_x35__x2C_52" data-name="_x35__x2C_5" class="st3">
+    <text class="st2" transform="translate(614.4 196.4)"><tspan x="0" y="0">5,5</tspan></text>
+  </g>
+  <g id="_x36__x2C_52" data-name="_x36__x2C_5" class="st3">
+    <text class="st2" transform="translate(614 78.9)"><tspan x="0" y="0">6,5</tspan></text>
+  </g>
+</svg>

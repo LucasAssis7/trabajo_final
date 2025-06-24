@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Proyectos de Título</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet"/>
+    <style>
+        figure {
+            margin: 0.6rem -1.2rem;
+        }
+    </style>
+</head>
+<body>
+    <nav class="fixed-top bg-light py-3 shadow-sm">
+        <div class="d-flex justify-content-around align-items-center">
+            <a href="index.html" class="link-dark fw-bold">Resumen <span class="d-none d-md-inline">de Proyectos de Título</span></a>
+            <a href="profes.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Prof. Guía</a>
+            <a href="titulos.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Título Profesional</a>
+            <a href="semestres.html" class="link-secondary"><span class="d-none d-md-inline">Proyectos por </span>Semestre</a>
+        </div>
+    </nav>
+
+    <div class="container mt-5 pt-5">
+        <div class="row">
+            <div class="col-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                <header>
+                    <h1 class="display-6 text-body-secondary">Resumen de Proyectos de Título</h1>
+                    <p class="lead">Aquí puede encontrar información de los Proyectos de Título aprobados en el actual programa de pregrado en <em>Diseño de la Universidad de Chile</em>, programa vigente desde el año 2019.</p>
+                    <p>Son <em>207</em> proyectos aprobados hasta el segundo semestre del año 2024; cada proyecto aprobado implica el resultado exitoso de un trabajo tutelado, de carácter autónomo, que el estudiantado debe resolver en el último año del programa.</p>
+                    <p>A continuación, en esta página, se ofrecen visualizaciones que informan de la situación general sobre los Proyectos de Título de Diseño en la Universidad de Chile.</p>
+                </header>
+                <main>
+
+                    <!-- Artigo 1 -->
+                    <article>
+                        <h2 class="fs-4 mt-5 mb-3 d-flex justify-content-between align-items-center">
+                            <span>Comparación entre aprobados(as) y reprobados(as) por semestre</span>
+                            <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">⬇</button>
+                        </h2>
+                        <div class="collapse" id="collapse1">
+                            <figure>
+                                <object data="viz/multiset_bar_chart.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>Como de indica más arriba, el Proyecto de Título consiste en un trabajo tutelado, de carácter autónomo, que el estudiantado debe resolver en el último año del plan de estudios. Como el año lectivo se divide en dos semestres, Proyecto de Título también se divide en dos niveles (I y II).</p>
+                            <p>La asignatura de Proyecto de Título II se imparte desde el segundo semestre del año 2021. El registro muestra que cada semestre la cantidad de
+                            <em><small style="background: #9b9b9b;">&nbsp;&nbsp;&nbsp;&nbsp;</small> reprobados(as)</em> es importante, pero desde el segundo semestre del año 2023 esa cantidad es menor que la suma de quienes aprueban la
+                            asignatura para obtener su Título Profesional de <em><small style="background: #F2D454;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a)</em>,
+                            <em><small style="background: #007957;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención en Visualidad y Medios</em>, y
+                            <em><small style="background: #004E93;">&nbsp;&nbsp;&nbsp;&nbsp;</small> Diseñador(a) con mención Industrial y Servicios</em>.</p>
+                            <p>Corresponde indicar que se cuentan como reprobados(as) a quienes, habiendo inscrito Proyecto de Título II, no hacen la entrega final correspondiente a la asignatura o la hacen para después reprobar el examen de título.</p>
+                        </div>
+                    </article>
+
+                    <!-- Artigo 2 -->
+                    <article>
+                        <h2 class="fs-4 mt-5 d-flex justify-content-between align-items-center">
+                            <span>Proyectos de título aprobados y sus tutelas</span>
+                            <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">⬇</button>
+                        </h2>
+                        <div class="collapse" id="collapse2">
+                            <figure>
+                                <object data="viz/alluvial_diagram_1.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>La guía de 207 proyectos aprobados, conducentes al título profesional universitario de <small style="background: #F2D454;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador(a)</em>,
+                            <small style="background: #004E93;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador(a) con mención Industrial y Servicios</em> y <small style="background: #007957;">&nbsp;&nbsp;&nbsp;&nbsp;</small>
+                            <em>Diseñador(a) con mención en Visualidad y Medios</em>, se distribuye entre 38 Profesores(as) Guía.</p>
+                            <p>El asterisco a la derecha de 9 nombres es para indicar que, al año 2025, tal Profesor(a) Guía <em>no</em> continúa en el rol.</p>
+                        </div>
+                    </article>
+
+                    <!-- Artigo 3 -->
+                    <article>
+                        <h2 class="fs-4 mt-5 d-flex justify-content-between align-items-center">
+                            <span>Proyectos de título aprobados, calificaciones finales de examen y sus tutelas</span>
+                            <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">⬇</button>
+                        </h2>
+                        <div class="collapse" id="collapse3">
+                            <figure>
+                                <object data="viz/alluvial_diagram_2.svg" type="image/svg+xml" class="w-100"></object>
+                            </figure>
+                            <p>Por reglamento, el examen de título se aprueba cuando el <em>promedio de las calificaciones otorgadas por los diferentes miembros de la comisión examinadora</em> es igual o superior a 4,0 (cuatro coma cero).</p>
+                        </div>
+                    </article>
+
+                    <!-- Artigo 4 -->
+                    <article>
+                        <h2 class="fs-4 mt-5 d-flex justify-content-between align-items-center">
+                            <span>Distribución y rangos de calificaciones finales de examen</span>
+                            <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">⬇</button>
+                        </h2>
+                        <div class="collapse" id="collapse4">
+                            <figure>
+                                <object data="viz/box_plot_1.svg" type="image/svg+xml"></object>
+                            </figure>
+                            <p>No hay <small style="background: #007957;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador con mención en Visualidad y Medios</em> ni <small style="background: #004E93;">&nbsp;&nbsp;&nbsp;&nbsp;</small>
+                            <em>Diseñador con mención Industrial y Servicios</em> que haya alcanzado la calificación máxima (7,0) en su examen de título. En el examen de
+                            <small style="background: #F2D454;">&nbsp;&nbsp;&nbsp;&nbsp;</small> <em>Diseñador</em> sí se ha alcanzado tal calificación. También se ha alcanzado en los exámenes de las
+                            <em>Diseñadoras, con o sin mención</em>.</p>
+                            
+                            <h3 class="fs-5 my-4">Sin diferenciar entre ellas y ellos</h3>
+                            <figure>
+                                <object data="viz/box_plot_2.svg" type="image/svg+xml"></object>
+                            </figure>
+                        </div>
+                    </article>
+
+                    <!-- Artigo 5 (último, com SVG dinâmico) -->
+                    <article>
+                        <h2 class="fs-4 mt-5 d-flex justify-content-between align-items-center">
+                            <span>Relación entre calificaciones finales de Proyecto de Título I y II</span>
+                            <button class="btn btn-sm btn-outline-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">⬇</button>
+                        </h2>
+                        <div class="collapse" id="collapse5">
+                            <p>
+                                <small>
+                                    <input type="radio" name="show" value="all" onchange="mostrador(this.value)" checked />Todo 
+                                    <input type="radio" name="show" value="sm" onchange="mostrador(this.value)" /> Diseñador(a)
+                                    <input type="radio" name="show" value="vm" onchange="mostrador(this.value)" /> Diseñador(a) con mención en Visualidad y Medios
+                                    <input type="radio" name="show" value="is" onchange="mostrador(this.value)" /> Diseñador(a) con mención Industrial y Servicios
+                                </small>
+                            </p>
+                            <figure>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 65" id="slope">
+                                    <style>
+                                        line { stroke-width: 0.3; }
+                                        .sm { stroke: #F2D454; }
+                                        .vm { stroke: #004E93; }
+                                        .is { stroke: #007957; }
+                                        .hide { display: none; }
+                                    </style>
+                                    <g><circle cx="5" cy="2.5" r=".5" fill="silver" />
+                                       <line x1="5" y1="2.5" x2="5" y2="62.5" stroke="silver" />
+                                       <circle cx="5" cy="62.5" r=".5" fill="silver" />
+                                    </g>
+                                    <g><circle cx="160" cy="2.5" r=".5" fill="silver" />
+                                       <line x1="160" y1="2.5" x2="160" y2="62.5" stroke="silver" />
+                                       <circle cx="160" cy="62.5" r=".5" fill="silver" />
+                                    </g>
+                                </svg>
+                            </figure>
+                            <p><em>En el gráfico se tiene, a la izquierda...</em></p>
+                            <p><em>Y a la derecha está la...</em></p>
+                        </div>
+                    </article>
+
+                </main>
+                <footer class="border-top my-5 pt-2">
+                    <p class="text-center text-body-tertiary">
+                        <small>
+                            Este sitio web, desarrollado por 
+                            <a href="https://www.u-cursos.cl/fau/2025/1/AUD5V027/1/integrantes/" class="link-dark link-opacity-50 link-opacity-75-hover">Diseño y Visualización de información</a>, 
+                            es publicado bajo licencia 
+                            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" class="link-dark link-opacity-50 link-opacity-75-hover">CC BY-NC 4.0</a>
+                        </small>
+                    </p>
+                </footer>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script para gráficos SVG (mantém o mesmo que já usava) -->
+    <script>
+        const notas = document.querySelector("#slope");
+        function clase(dato) {
+            let esto;
+            if (dato == "Diseño") esto = 'class="sm hide"';
+            else if (dato == "Diseño con mención en Visualidad y Medios") esto = 'class="vm hide"';
+            else esto = 'class="is hide"';
+            return esto;
+        }
+        function mostrador(dato) {
+            document.querySelectorAll(".sm").forEach(x => x.classList.toggle("hide", dato !== "all" && dato !== "sm"));
+            document.querySelectorAll(".vm").forEach(x => x.classList.toggle("hide", dato !== "all" && dato !== "vm"));
+            document.querySelectorAll(".is").forEach(x => x.classList.toggle("hide", dato !== "all" && dato !== "is"));
+        }
+        async function datos() {
+            const consulta = await fetch("https://api.myjson.online/v1/records/37160c1e-48e9-4c12-b2c6-41b5165f72f9");
+            const data = await consulta.json();
+            data.data.forEach((d, i) => {
+                notas.innerHTML += `
+                    <g>
+                        <text x="0.5" y="${140 - d.nota_anteproyecto * 20 + 2.5}" font-size="2" dominant-baseline="middle">${d.nota_anteproyecto.toFixed(1).replace(".", ",")}</text>
+                        <circle cx="5" cy="${140 - d.nota_anteproyecto * 20 + 2.5}" r=".5" fill="var(--gris)"/>
+                        <line x1="5" y1="${140 - d.nota_anteproyecto * 20 + 2.5}" x2="160" y2="${140 - d.nota_proyecto * 20 + 2.5}" ${clase(d.titulo_profesional_neutro)}/>
+                        <circle cx="160" cy="${140 - d.nota_proyecto * 20 + 2.5}" r=".5" fill="var(--gris)"/>
+                        <text x="161.25" y="${140 - d.nota_proyecto * 20 + 2.5}" font-size="2" dominant-baseline="middle">${d.nota_proyecto.toFixed(1).replace(".", ",")}</text>
+                    </g>`;
+            });
+            mostrador("all");
+        }
+        datos().catch((error) => console.error(error));
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+

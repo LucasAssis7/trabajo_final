@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1120 610">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible');
+      .st0 {
+        stroke: #000;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        font-family: Atkinson Hyperlegible, sans-serif;
+        font-size: 14px;
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #9b9b9b;
+      }
+
+      .st4 {
+        fill: #007957;
+      }
+
+      .st5 {
+        fill: #f2d454;
+      }
+
+      .st6 {
+        fill: #004e93;
+      }
+    </style>
+  </defs>
+  <g id="viz">
+    <g id="reprueban">
+      <path class="st3" d="M95,371.7h49.5v208h-49.5v-208Z"/>
+      <path class="st3" d="M253.9,307.7h49.5v272h-49.5v-272Z"/>
+      <path class="st3" d="M412.7,107.7h49.5v472h-49.5V107.7Z"/>
+      <path class="st3" d="M572.6,203.7h49.5v376h-49.5V203.7Z"/>
+      <path class="st3" d="M732.5,235.7h49.5v344h-49.5V235.7Z"/>
+      <path class="st3" d="M892.3,411.7h49.5v168h-49.5v-168Z"/>
+      <path class="st3" d="M1052.2,171.7h49.5v408h-49.5V171.7Z"/>
+    </g>
+    <g id="aprueban">
+      <path class="st6" d="M44.6,555.7h49.5v24h-49.5v-24Z"/>
+      <path class="st6" d="M1001.7,27.7h49.5v552h-49.5V27.7h0Z"/>
+      <path class="st6" d="M841.9,267.7h49.5v312h-49.5v-312Z"/>
+      <path class="st6" d="M522.2,419.7h49.5v160h-49.5v-160Z"/>
+      <path class="st6" d="M203.4,499.7h49.5v80h-49.5v-80Z"/>
+      <path class="st6" d="M362.3,491.7h49.5v88h-49.5v-88Z"/>
+      <path class="st6" d="M682,139.7h49.5v440h-49.5V139.7Z"/>
+    </g>
+    <g id="industriales">
+      <path class="st4" d="M203.4,539.7h49.5v40h-49.5v-40Z"/>
+      <path class="st4" d="M362.3,547.7h49.5v32h-49.5v-32Z"/>
+      <path class="st4" d="M522.2,523.7h49.5v56h-49.5v-56Z"/>
+      <path class="st4" d="M682,395.7h49.5v184h-49.5v-184Z"/>
+      <path class="st4" d="M841.9,467.7h49.5v112h-49.5v-112Z"/>
+      <path class="st4" d="M1001.7,347.7h49.5v232h-49.5v-232Z"/>
+    </g>
+    <g id="sinmencion">
+      <path class="st5" d="M44.6,555.7h49.5v8h-49.5v-8Z"/>
+      <path class="st5" d="M522.2,419.7h49.5v32h-49.5v-32Z"/>
+      <path class="st5" d="M682,139.7h49.5v56c0-.3-49.5,0-49.5,0v-56Z"/>
+      <path class="st5" d="M841.9,267.7h49.5v32h-49.5v-32Z"/>
+      <path class="st5" d="M1001.7,27.7h49.5v64h-49.5V27.7Z"/>
+    </g>
+    <g id="xAxis">
+      <path class="st0" d="M94.6,579.7v6"/>
+      <path class="st0" d="M253.4,579.7v6"/>
+      <path class="st0" d="M412.3,579.7v6"/>
+      <path class="st0" d="M572.1,579.7v6"/>
+      <path class="st0" d="M732,579.7v6"/>
+      <path class="st0" d="M891.9,579.7v6"/>
+      <path class="st0" d="M1051.7,579.7v6"/>
+    </g>
+    <g id="yAxis">
+      <path class="st0" d="M30.1,580.2V20.2"/>
+      <path class="st0" d="M1119.6,580.2H23.6"/>
+      <path class="st0" d="M29.6,540.2h-6"/>
+      <path class="st0" d="M29.6,500.2h-6"/>
+      <path class="st0" d="M29.6,460.2h-6"/>
+      <path class="st0" d="M29.6,420.2h-6"/>
+      <path class="st0" d="M29.6,380.2h-6"/>
+      <path class="st0" d="M29.6,340.2h-6"/>
+      <path class="st0" d="M29.6,300.2h-6"/>
+      <path class="st0" d="M29.6,260.2h-6"/>
+      <path class="st0" d="M29.6,220.2h-6"/>
+      <path class="st0" d="M29.6,180.2h-6"/>
+      <path class="st0" d="M29.6,140.2h-6"/>
+      <path class="st0" d="M29.6,100.2h-6"/>
+      <path class="st0" d="M29.6,60.2h-6"/>
+      <path class="st0" d="M29.6,20.2h-6"/>
+    </g>
+  </g>
+  <rect class="st1" width="1120" height="610"/>
+  <text class="st2" transform="translate(72.7 601.7)"><tspan x="0" y="0">2021-2</tspan></text>
+  <text class="st2" transform="translate(231.3 602.1)"><tspan x="0" y="0">2022-1</tspan></text>
+  <text class="st2" transform="translate(394 602.2)"><tspan x="0" y="0">2022-2</tspan></text>
+  <text class="st2" transform="translate(551.6 602.4)"><tspan x="0" y="0">2023-1</tspan></text>
+  <text class="st2" transform="translate(711.4 602.6)"><tspan x="0" y="0">2023-2</tspan></text>
+  <text class="st2" transform="translate(870.6 602.2)"><tspan x="0" y="0">2024-1</tspan></text>
+  <text class="st2" transform="translate(1030.4 602.8)"><tspan x="0" y="0">2024-2</tspan></text>
+  <text class="st2" transform="translate(13.6 583.8)"><tspan x="0" y="0">0</tspan></text>
+  <text class="st2" transform="translate(13.1 543.6)"><tspan x="0" y="0">5</tspan></text>
+  <text class="st2" transform="translate(6.9 503.8)"><tspan x="0" y="0">10</tspan></text>
+  <text class="st2" transform="translate(5.4 463.8)"><tspan x="0" y="0">15</tspan></text>
+  <text class="st2" transform="translate(7 424)"><tspan x="0" y="0">20</tspan></text>
+  <text class="st2" transform="translate(6.3 383.5)"><tspan x="0" y="0">25</tspan></text>
+  <text class="st2" transform="translate(6.3 345.1)"><tspan x="0" y="0">30</tspan></text>
+  <text class="st2" transform="translate(5.7 304.3)"><tspan x="0" y="0">35</tspan></text>
+  <text class="st2" transform="translate(5.5 264.1)"><tspan x="0" y="0">40</tspan></text>
+  <text class="st2" transform="translate(5.7 224.3)"><tspan x="0" y="0">45</tspan></text>
+  <text class="st2" transform="translate(4.9 183.5)"><tspan x="0" y="0">50</tspan></text>
+  <text class="st2" transform="translate(5.5 143.8)"><tspan x="0" y="0">55</tspan></text>
+  <text class="st2" transform="translate(6.2 104.3)"><tspan x="0" y="0">60</tspan></text>
+  <text class="st2" transform="translate(6.2 63.7)"><tspan x="0" y="0">65</tspan></text>
+  <text class="st2" transform="translate(5.5 23.8)"><tspan x="0" y="0">70</tspan></text>
+</svg>
